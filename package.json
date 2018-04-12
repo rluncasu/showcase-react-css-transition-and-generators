@@ -1,0 +1,20 @@
+{
+  "name": "react-css-transition-and-generators",
+  "version": "1.0.0",
+  "description":
+    "sample app showcasing: - react-addons-css-transition-group and javascript generators",
+  "keywords": ["react-css-transition", "generators"],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.3.1",
+    "react-addons-css-transition-group": "15.6.2",
+    "react-dom": "16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
